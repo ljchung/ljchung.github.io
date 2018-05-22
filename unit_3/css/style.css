@@ -1,5 +1,8 @@
 body {
 	background-color: #ffffff;
+	background-image: url('https://www.fg-a.com/wallpapers/white-marble-1-2018.jpg');
+	background-size: cover;
+
 }
 header {
 	text-align: right;
@@ -17,3 +20,4 @@ h1 {
 	font-size: 20px;
 
 }
+
