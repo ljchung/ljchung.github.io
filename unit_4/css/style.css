@@ -1,0 +1,25 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch|Special+Elite');
+</style> 
+
+body {
+	background-color: #ffffff;
+	background-image: url('https://www.fg-a.com/wallpapers/white-marble-1-2018.jpg');
+	background-size: cover;
+
+}
+header {
+	text-align: right;
+}
+h1 {
+	text-align: center;
+	font-size: 43px;
+	font-family: 'Cabin Sketch', cursive;
+}
+
+#slogan {
+	text-align: center;
+	font-size: 18px;
+	font-style: italic;
+}
+
