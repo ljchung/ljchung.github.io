@@ -10,10 +10,7 @@ body {
 }
 header {
 	text-align: right;
-}
-
-.header-container-wrapper{
-background-color: red;
+	display: block;
 }
 
 h1 {
