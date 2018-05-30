@@ -11,6 +11,11 @@ body {
 header {
 	text-align: right;
 }
+
+.header-container-wrapper{
+background-color: red;
+}
+
 h1 {
 	text-align: center;
 	font-size: 43px;
