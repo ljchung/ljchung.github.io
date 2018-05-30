@@ -30,6 +30,10 @@ h2 {
 #slogan {
 	text-align: center;
 	font-size: 18px;
-	font-style: italic;
+	font-style: none
+	font-family: 'Permanent Marker', cursive;
 }
 
+ul {
+	font-family: 'Permanent Marker', cursive;
+}
