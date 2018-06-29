@@ -25,10 +25,10 @@ nav {
 }
 
 .bgimg {
-    background-image: url(il_fullxfull.310731175.jpg);
+    background-image: url("il_fullxfull.310731175.jpg");
     height: 100%;
     position: relative;
-    opacity: 0.65;
+    opacity: 0.87;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
