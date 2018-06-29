@@ -10,9 +10,6 @@
     margin: 4px 2px;
 }
 
-header {
-    background-color: #FFED74;
-}
 
 nav {
     background-color: #E8C66A;
@@ -54,8 +51,4 @@ nav {
     text-align: center;
 }
 
-footer {
-    background-color: #FF957E;
-    border: 2px black solid;
-    padding: 20px;
-}
+
